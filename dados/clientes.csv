@@ -1,0 +1,13 @@
+id_cliente,nome,idade,cidade,renda_mensal,situacao
+1001,Ana,28,Brasilia,3200,Ativo
+1002,Bruno,35,Goiânia,4500,Ativo
+1003,Carla,,Brasilia,5100,
+1004,Diego,42,, ,Ativo
+1005,Elisa,31,Anápolis,2800,Inativo
+1006,Felipe,26,Brasilia,3500,Ativo
+1007,Giovana,39,,6200,Ativo
+1008,Heitor,,Goiânia,4100,Inativo
+1009,Isabela,45,Brasilia,,Ativo
+1010,João,33,Anápolis,3900,
+1011,Karen,29,,2700,Ativo
+1012,Lucas,,Goiânia,5600,Ativo

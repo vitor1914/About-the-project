@@ -1,0 +1,58 @@
+{
+    "arquivo_analisado": "clientes.csv",
+    "quantidade_registros": 12,
+    "quantidade_colunas": 6,
+    "total_celulas": 72,
+    "total_valores_ausentes": 10,
+    "percentual_geral_ausente": 13.89,
+    "colunas_com_ausentes": [
+        "cidade",
+        "idade",
+        "renda_mensal",
+        "situacao"
+    ],
+    "detalhamento": [
+        {
+            "coluna": "cidade",
+            "total_registros": 12,
+            "valores_ausentes": 3,
+            "valores_preenchidos": 9,
+            "percentual_ausente": 25.0
+        },
+        {
+            "coluna": "idade",
+            "total_registros": 12,
+            "valores_ausentes": 3,
+            "valores_preenchidos": 9,
+            "percentual_ausente": 25.0
+        },
+        {
+            "coluna": "renda_mensal",
+            "total_registros": 12,
+            "valores_ausentes": 2,
+            "valores_preenchidos": 10,
+            "percentual_ausente": 16.67
+        },
+        {
+            "coluna": "situacao",
+            "total_registros": 12,
+            "valores_ausentes": 2,
+            "valores_preenchidos": 10,
+            "percentual_ausente": 16.67
+        },
+        {
+            "coluna": "nome",
+            "total_registros": 12,
+            "valores_ausentes": 0,
+            "valores_preenchidos": 12,
+            "percentual_ausente": 0.0
+        },
+        {
+            "coluna": "id_cliente",
+            "total_registros": 12,
+            "valores_ausentes": 0,
+            "valores_preenchidos": 12,
+            "percentual_ausente": 0.0
+        }
+    ]
+}
